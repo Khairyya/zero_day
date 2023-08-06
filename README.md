@@ -1,2 +1,1 @@
-# zero_day
-hy
+This file is mandatory in projects
